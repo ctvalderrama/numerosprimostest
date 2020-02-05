@@ -1,4 +1,4 @@
-const { esPrimo, esPrimoSheldon } = require('../src/funciones');
+const { esPrimo, esPrimoSheldon } = require('../functions/funciones');
 
 test('es primo 7', () => {
     expect(esPrimo(7)).toBe(true);
