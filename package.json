@@ -1,0 +1,26 @@
+{
+    "name": "numeros-primos",
+    "version": "1.0.0",
+    "description": "Numeros primos",
+    "main": "index.js",
+    "directories": {
+        "test": "test"
+    },
+    "scripts": {
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/cristsr/numeros-primos.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/cristsr/numeros-primos/issues"
+    },
+    "homepage": "https://github.com/cristsr/numeros-primos#readme",
+    "devDependencies": {
+        "jest": "^24.9.0"
+    }
+}
